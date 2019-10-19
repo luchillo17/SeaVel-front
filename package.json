@@ -11,13 +11,18 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchillo17/SeaVel-back.git"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~8.2.11",
-    "@angular/cdk": "~8.2.3",
+    "@angular/cdk": "^8.2.3",
     "@angular/common": "~8.2.11",
     "@angular/compiler": "~8.2.11",
     "@angular/core": "~8.2.11",
+    "@angular/flex-layout": "^8.0.0-beta.27",
     "@angular/forms": "~8.2.11",
     "@angular/material": "^8.2.3",
     "@angular/platform-browser": "~8.2.11",
