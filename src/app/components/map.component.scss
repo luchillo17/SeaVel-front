@@ -1,0 +1,14 @@
+$detail-width: 1500px;
+
+.map {
+  width: calc(100% - $detail-width);
+  height: 200px;
+  margin: 50px;
+  align-content: center;
+}
+
+.detail {
+  width: $detail-width;
+  margin: auto;
+  align-content: center;
+}

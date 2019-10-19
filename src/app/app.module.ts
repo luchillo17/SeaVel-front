@@ -6,24 +6,28 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { MatSliderModule } from '@angular/material';
+import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatCardModule } from '@angular/material/card';
 
-import { SeavelComponent } from './components/seavel.component';
 import { MapComponent } from './components/map.component';
 import { TimeLineComponent } from './components/timeLine.component';
+import { AppBarComponent } from './components/app-bar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    SeavelComponent,
     MapComponent,
-    TimeLineComponent
+    TimeLineComponent,
+    AppBarComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
     FlexLayoutModule,
-    MatSliderModule
+    MatSliderModule,
+    MatToolbarModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
