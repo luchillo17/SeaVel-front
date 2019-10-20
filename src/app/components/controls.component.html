@@ -1,21 +1,21 @@
 <mat-card class="indicators">
   <h4 class="indicator-title">Indicadores</h4>
   <div>
-    <mat-radio-group aria-label="Select an option">
-      <mat-radio-button value="1">Niña</mat-radio-button>
-      <mat-radio-button value="2">Niño</mat-radio-button>
+    <mat-radio-group [value]="phenomenon" aria-label="Select an option">
+      <mat-radio-button value="NINA">Niña</mat-radio-button>
+      <mat-radio-button value="NINO">Niño</mat-radio-button>
     </mat-radio-group>
   </div>
 </mat-card>
 
 <mat-card class="indicators">
   <h4 class="indicator-title">Temperatura Global</h4>
-  <div>20 °C</div>
+  <div>{{ temp }} °C</div>
 </mat-card>
 
 <mat-card class="indicators">
-  <h4 class="indicator-title">Nivel del mar Global</h4>
-  <div>10 m</div>
+  <h4 class="indicator-title">Aumento del Nivel del mar Global</h4>
+  <div>{{ level }} cm</div>
 </mat-card>
 
 <mat-card class="indicators">

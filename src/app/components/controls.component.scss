@@ -17,6 +17,10 @@ mat-card:not(:last-child) {
   margin-bottom: 10px;
 }
 
-mat-radio-button:first-child {
-  margin-right: 10px;
+mat-radio-button {
+  pointer-events: none;
+
+  &:first-child {
+    margin-right: 10px;
+  }
 }

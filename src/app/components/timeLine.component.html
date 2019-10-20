@@ -6,10 +6,11 @@
     tickInterval="1"
     thumbLabel
     min="0"
-    max="228"
+    max="114"
     step="3"
     value="0"
     color="primary"
     [displayWith]="formatLabel"
+    (valueChange)="setMonth($event)"
   ></mat-slider>
 </mat-card>
