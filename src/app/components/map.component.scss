@@ -1,6 +1,7 @@
 $detail-width: 1500px;
 
 .map {
+  max-width: 1080px;
   width: calc(100% - $detail-width);
   height: 200px;
   margin: 50px;
@@ -14,7 +15,7 @@ $detail-width: 1500px;
 }
 
 .back-map {
-  background-color: #0B3D91;
+  background-color: #0b3d91;
   color: white;
   width: 10%;
   text-align: center;

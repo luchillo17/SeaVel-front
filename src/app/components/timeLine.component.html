@@ -1,1 +1,15 @@
-<mat-slider tickInterval="20" thumbLabel min="1" max="10" step="1" value="1"></mat-slider>
+<mat-card>
+  <mat-card-title>Linea de tiempo</mat-card-title>
+
+  <mat-slider
+    class="timeline-slider"
+    tickInterval="1"
+    thumbLabel
+    min="0"
+    max="228"
+    step="3"
+    value="0"
+    color="primary"
+    [displayWith]="formatLabel"
+  ></mat-slider>
+</mat-card>
