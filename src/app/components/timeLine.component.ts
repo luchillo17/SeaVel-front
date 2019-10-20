@@ -13,8 +13,6 @@ export class TimeLineComponent {
   );
 
   formatLabel = (month: number) => {
-    console.log(month);
-
     return this.memoizedFormatLabel(month);
   };
 }

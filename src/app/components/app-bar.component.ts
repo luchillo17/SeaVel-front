@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   template: `
     <mat-toolbar color="primary" fxLayout="column" class="span back">
       <h1 flex>Seavel App:</h1>
-      <h2 flex>¿Cuánto sabes sobre el nivel del mar?</h2>
+      <h2 flex>Información científica al alcance de la comunidad</h2>
     </mat-toolbar>
   `,
   styleUrls: ['./app-bar.component.scss']

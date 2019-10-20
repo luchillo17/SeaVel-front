@@ -1,18 +1,30 @@
-$detail-width: 250px;
+:host {
+  padding-left: 20px;
+
+  display: grid;
+
+  grid-template-rows: 52px auto;
+  grid-template-columns: auto;
+  grid-template-areas:
+    'map-title'
+    'map';
+
+  grid-gap: 20px 20px;
+}
+
+.map-title {
+  grid-area: map-title;
+
+  text-align: center;
+}
 
 .map {
-  max-width: 600px;
+  grid-area: map;
+  min-height: 0;
 
-  margin: 20px;
-  padding: 10px;
-}
-
-.flex {
-  justify-content: center;
-}
-
-.indicators {
-  text-align: center;
-  padding: 10px;
-  margin: 20px;
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
 }

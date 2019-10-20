@@ -1,46 +1,7 @@
-<div fxLayout="row" class="flex">
-  <div>
-    <mat-card class="indicators">
-      <div>Nivel del mar</div>
-    </mat-card>
-    <mat-card class="map">
+<mat-card class="map-title">
+  <h3>Nivel del mar</h3>
+</mat-card>
 
-      <img mat-card-image src="assets/img/tumaco.png" alt="test photo" />
-
-    </mat-card>
-  </div>
-
-  <div>
-    <mat-card class="indicators">
-      <div>Indicadores</div>
-      <div>
-        <mat-radio-group aria-label="Select an option">
-          <mat-radio-button value="1">Niña</mat-radio-button>
-          <mat-radio-button value="2">Niño</mat-radio-button>
-        </mat-radio-group>
-      </div>
-    </mat-card>
-
-    <mat-card class="indicators">
-      <div>Temperatura Global</div>
-      <div>20 °C</div>
-    </mat-card>
-
-    <mat-card class="indicators">
-      <div>Nivel del mar Global</div>
-      <div>10 m</div>
-    </mat-card>
-
-    <mat-card class="indicators">
-      <h4>Selecione una ciudad</h4>
-      <mat-form-field>
-        <mat-label>Ciudades</mat-label>
-        <mat-select>
-          <mat-option *ngFor="let food of foods" [value]="food.value">
-            {{food.viewValue}}
-          </mat-option>
-        </mat-select>
-      </mat-form-field>
-    </mat-card>
-  </div>
+<div class="map">
+  <img src="assets/img/tumaco.png" alt="test photo" />
 </div>

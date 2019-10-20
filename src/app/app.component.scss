@@ -1,1 +1,30 @@
+:host {
+  display: grid;
+  grid-template-columns: auto 250px;
+  grid-template-rows: [header] 64px [content] calc(100vh - 184px - 40px) [timeline] 120px;
+  grid-template-areas:
+    'header header'
+    'map controls'
+    'timeline timeline';
 
+  grid-gap: 20px 20px;
+
+  justify-items: stretch;
+  align-items: stretch;
+}
+
+app-bar {
+  grid-area: header;
+}
+
+app-map {
+  grid-area: map;
+}
+
+app-controls {
+  grid-area: controls;
+}
+
+app-time-line {
+  grid-area: timeline;
+}
