@@ -1,22 +1,18 @@
-$detail-width: 1500px;
+$detail-width: 250px;
 
 .map {
-  max-width: 1080px;
-  width: calc(100% - $detail-width);
-  height: 200px;
-  margin: 50px;
-  align-content: center;
+  max-width: 600px;
+
+  margin: 20px;
+  padding: 10px;
 }
 
-.detail {
-  width: $detail-width;
-  margin: auto;
-  align-content: center;
+.flex {
+  justify-content: center;
 }
 
-.back-map {
-  background-color: #0b3d91;
-  color: white;
-  width: 10%;
+.indicators {
   text-align: center;
+  padding: 10px;
+  margin: 20px;
 }
