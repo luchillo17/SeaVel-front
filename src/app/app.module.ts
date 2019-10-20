@@ -8,6 +8,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { MatSliderModule } from '@angular/material';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatCardModule } from '@angular/material/card';
+import { MatRadioModule } from '@angular/material/radio';
 
 import { MapComponent } from './components/map.component';
 import { TimeLineComponent } from './components/timeLine.component';
@@ -27,7 +28,8 @@ import { AppBarComponent } from './components/app-bar.component';
     FlexLayoutModule,
     MatSliderModule,
     MatToolbarModule,
-    MatCardModule
+    MatCardModule,
+    MatRadioModule
   ],
   providers: [],
   bootstrap: [AppComponent]
