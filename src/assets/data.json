@@ -1,0 +1,914 @@
+[
+  {
+    "Fenomeno": "NINA",
+    "mes": "enero",
+    "anno": 2000,
+    "Temperatura": 23.31023052,
+    "nivel": 0.44,
+    "num": 1
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "febrero",
+    "anno": 2000,
+    "Temperatura": 23.18652132,
+    "nivel": 0.48,
+    "num": 2
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "marzo",
+    "anno": 2000,
+    "Temperatura": 22.25108261,
+    "nivel": 0.52,
+    "num": 3
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "abril",
+    "anno": 2000,
+    "Temperatura": 23.79439271,
+    "nivel": 0.56,
+    "num": 4
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "mayo",
+    "anno": 2000,
+    "Temperatura": 23.37459562,
+    "nivel": 0.6,
+    "num": 5
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "junio",
+    "anno": 2000,
+    "Temperatura": 23.61650849,
+    "nivel": 0.64,
+    "num": 6
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "julio",
+    "anno": 2000,
+    "Temperatura": 24.24939366,
+    "nivel": 0.68,
+    "num": 7
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "agosto",
+    "anno": 2000,
+    "Temperatura": 23.33059633,
+    "nivel": 0.72,
+    "num": 8
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "septiembre",
+    "anno": 2000,
+    "Temperatura": 23.08497255,
+    "nivel": 0.76,
+    "num": 9
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "octubre",
+    "anno": 2000,
+    "Temperatura": 23.48691656,
+    "nivel": 0.8,
+    "num": 10
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "noviembre",
+    "anno": 2000,
+    "Temperatura": 23.20246507,
+    "nivel": 0.84,
+    "num": 11
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "diciembre",
+    "anno": 2000,
+    "Temperatura": 23.87011226,
+    "nivel": 0.88,
+    "num": 12
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "enero",
+    "anno": 2001,
+    "Temperatura": 23.65436808,
+    "nivel": 0.92,
+    "num": 13
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "febrero",
+    "anno": 2001,
+    "Temperatura": 24.31029547,
+    "nivel": 0.96,
+    "num": 14
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "marzo",
+    "anno": 2001,
+    "Temperatura": 23.47872108,
+    "nivel": 1,
+    "num": 15
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "abril",
+    "anno": 2001,
+    "Temperatura": 23.26534191,
+    "nivel": 1.04,
+    "num": 16
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "mayo",
+    "anno": 2001,
+    "Temperatura": 23.66956898,
+    "nivel": 1.08,
+    "num": 17
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "junio",
+    "anno": 2001,
+    "Temperatura": 23.44992591,
+    "nivel": 1.12,
+    "num": 18
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "julio",
+    "anno": 2001,
+    "Temperatura": 23.81670505,
+    "nivel": 1.16,
+    "num": 19
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "agosto",
+    "anno": 2001,
+    "Temperatura": 23.59211263,
+    "nivel": 1.2,
+    "num": 20
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "septiembre",
+    "anno": 2001,
+    "Temperatura": 22.51348301,
+    "nivel": 1.24,
+    "num": 21
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "octubre",
+    "anno": 2001,
+    "Temperatura": 22.95948265,
+    "nivel": 1.28,
+    "num": 22
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "noviembre",
+    "anno": 2001,
+    "Temperatura": 23.47378231,
+    "nivel": 1.32,
+    "num": 23
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "diciembre",
+    "anno": 2001,
+    "Temperatura": 22.48755899,
+    "nivel": 1.36,
+    "num": 24
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "enero",
+    "anno": 2002,
+    "Temperatura": 23.91257896,
+    "nivel": 1.4,
+    "num": 25
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "febrero",
+    "anno": 2002,
+    "Temperatura": 22.40262178,
+    "nivel": 1.44,
+    "num": 26
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "marzo",
+    "anno": 2002,
+    "Temperatura": 23.03458792,
+    "nivel": 1.48,
+    "num": 27
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "abril",
+    "anno": 2002,
+    "Temperatura": 22.58650255,
+    "nivel": 1.52,
+    "num": 28
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "mayo",
+    "anno": 2002,
+    "Temperatura": 24.04589213,
+    "nivel": 1.56,
+    "num": 29
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "junio",
+    "anno": 2002,
+    "Temperatura": 22.31674666,
+    "nivel": 1.6,
+    "num": 30
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "julio",
+    "anno": 2002,
+    "Temperatura": 23.00264497,
+    "nivel": 1.64,
+    "num": 31
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "agosto",
+    "anno": 2002,
+    "Temperatura": 22.95820887,
+    "nivel": 1.68,
+    "num": 32
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "septiembre",
+    "anno": 2002,
+    "Temperatura": 23.62238865,
+    "nivel": 1.72,
+    "num": 33
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "octubre",
+    "anno": 2002,
+    "Temperatura": 23.22809696,
+    "nivel": 1.76,
+    "num": 34
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "noviembre",
+    "anno": 2002,
+    "Temperatura": 22.8331096,
+    "nivel": 1.8,
+    "num": 35
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "diciembre",
+    "anno": 2002,
+    "Temperatura": 23.19182475,
+    "nivel": 1.84,
+    "num": 36
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "enero",
+    "anno": 2003,
+    "Temperatura": 23.25072146,
+    "nivel": 1.88,
+    "num": 37
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "febrero",
+    "anno": 2003,
+    "Temperatura": 22.49081387,
+    "nivel": 1.92,
+    "num": 38
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "marzo",
+    "anno": 2003,
+    "Temperatura": 24.10069083,
+    "nivel": 1.96,
+    "num": 39
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "abril",
+    "anno": 2003,
+    "Temperatura": 22.87202525,
+    "nivel": 2,
+    "num": 40
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "mayo",
+    "anno": 2003,
+    "Temperatura": 24.58201255,
+    "nivel": 2.04,
+    "num": 41
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "junio",
+    "anno": 2003,
+    "Temperatura": 24.05034366,
+    "nivel": 2.08,
+    "num": 42
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "julio",
+    "anno": 2003,
+    "Temperatura": 24.50546481,
+    "nivel": 2.12,
+    "num": 43
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "agosto",
+    "anno": 2003,
+    "Temperatura": 23.61891274,
+    "nivel": 2.16,
+    "num": 44
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "septiembre",
+    "anno": 2003,
+    "Temperatura": 24.16756505,
+    "nivel": 2.2,
+    "num": 45
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "octubre",
+    "anno": 2003,
+    "Temperatura": 23.03102632,
+    "nivel": 2.24,
+    "num": 46
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "noviembre",
+    "anno": 2003,
+    "Temperatura": 24.11681021,
+    "nivel": 2.28,
+    "num": 47
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "diciembre",
+    "anno": 2003,
+    "Temperatura": 23.17648314,
+    "nivel": 2.32,
+    "num": 48
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "enero",
+    "anno": 2004,
+    "Temperatura": 23.32264688,
+    "nivel": 2.36,
+    "num": 49
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "febrero",
+    "anno": 2004,
+    "Temperatura": 24.31221755,
+    "nivel": 2.4,
+    "num": 50
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "marzo",
+    "anno": 2004,
+    "Temperatura": 24.4199346,
+    "nivel": 2.44,
+    "num": 51
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "abril",
+    "anno": 2004,
+    "Temperatura": 23.47826171,
+    "nivel": 2.48,
+    "num": 52
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "mayo",
+    "anno": 2004,
+    "Temperatura": 22.78220985,
+    "nivel": 2.52,
+    "num": 53
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "junio",
+    "anno": 2004,
+    "Temperatura": 23.19216119,
+    "nivel": 2.56,
+    "num": 54
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "julio",
+    "anno": 2004,
+    "Temperatura": 23.46343001,
+    "nivel": 2.6,
+    "num": 55
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "agosto",
+    "anno": 2004,
+    "Temperatura": 23.68203867,
+    "nivel": 2.64,
+    "num": 56
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "septiembre",
+    "anno": 2004,
+    "Temperatura": 23.8569533,
+    "nivel": 2.68,
+    "num": 57
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "octubre",
+    "anno": 2004,
+    "Temperatura": 24.60426315,
+    "nivel": 2.72,
+    "num": 58
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "noviembre",
+    "anno": 2004,
+    "Temperatura": 23.42546867,
+    "nivel": 2.76,
+    "num": 59
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "diciembre",
+    "anno": 2004,
+    "Temperatura": 24.76191928,
+    "nivel": 2.8,
+    "num": 60
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "enero",
+    "anno": 2005,
+    "Temperatura": 23.2115311,
+    "nivel": 2.84,
+    "num": 61
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "febrero",
+    "anno": 2005,
+    "Temperatura": 23.95984234,
+    "nivel": 2.88,
+    "num": 62
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "marzo",
+    "anno": 2005,
+    "Temperatura": 23.00078025,
+    "nivel": 2.92,
+    "num": 63
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "abril",
+    "anno": 2005,
+    "Temperatura": 24.2804177,
+    "nivel": 2.96,
+    "num": 64
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "mayo",
+    "anno": 2005,
+    "Temperatura": 24.80808248,
+    "nivel": 3,
+    "num": 65
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "junio",
+    "anno": 2005,
+    "Temperatura": 24.47556939,
+    "nivel": 3.04,
+    "num": 66
+  },
+  {
+    "Fenomeno": "NINO",
+    "mes": "julio",
+    "anno": 2005,
+    "Temperatura": 24.22571511,
+    "nivel": 3.08,
+    "num": 67
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "agosto",
+    "anno": 2005,
+    "Temperatura": 24.73667272,
+    "nivel": 3.12,
+    "num": 68
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "septiembre",
+    "anno": 2005,
+    "Temperatura": 24.86527273,
+    "nivel": 3.16,
+    "num": 69
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "octubre",
+    "anno": 2005,
+    "Temperatura": 23.60749528,
+    "nivel": 3.2,
+    "num": 70
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "noviembre",
+    "anno": 2005,
+    "Temperatura": 23.99407406,
+    "nivel": 3.24,
+    "num": 71
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "diciembre",
+    "anno": 2005,
+    "Temperatura": 24.85350052,
+    "nivel": 3.28,
+    "num": 72
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "enero",
+    "anno": 2006,
+    "Temperatura": 24.16902336,
+    "nivel": 3.32,
+    "num": 73
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "febrero",
+    "anno": 2006,
+    "Temperatura": 22.89848151,
+    "nivel": 3.36,
+    "num": 74
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "marzo",
+    "anno": 2006,
+    "Temperatura": 23.09664429,
+    "nivel": 3.4,
+    "num": 75
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "abril",
+    "anno": 2006,
+    "Temperatura": 23.9835949,
+    "nivel": 3.44,
+    "num": 76
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "mayo",
+    "anno": 2006,
+    "Temperatura": 24.20519841,
+    "nivel": 3.48,
+    "num": 77
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "junio",
+    "anno": 2006,
+    "Temperatura": 23.73453824,
+    "nivel": 3.52,
+    "num": 78
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "julio",
+    "anno": 2006,
+    "Temperatura": 23.55646671,
+    "nivel": 3.56,
+    "num": 79
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "agosto",
+    "anno": 2006,
+    "Temperatura": 22.97020123,
+    "nivel": 3.6,
+    "num": 80
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "septiembre",
+    "anno": 2006,
+    "Temperatura": 24.6005021,
+    "nivel": 3.64,
+    "num": 81
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "octubre",
+    "anno": 2006,
+    "Temperatura": 25.00029018,
+    "nivel": 3.68,
+    "num": 82
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "noviembre",
+    "anno": 2006,
+    "Temperatura": 23.54857556,
+    "nivel": 3.72,
+    "num": 83
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "diciembre",
+    "anno": 2006,
+    "Temperatura": 23.28497367,
+    "nivel": 3.76,
+    "num": 84
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "enero",
+    "anno": 2007,
+    "Temperatura": 23.18923706,
+    "nivel": 3.8,
+    "num": 85
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "febrero",
+    "anno": 2007,
+    "Temperatura": 23.31827248,
+    "nivel": 3.84,
+    "num": 86
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "marzo",
+    "anno": 2007,
+    "Temperatura": 23.62739928,
+    "nivel": 3.88,
+    "num": 87
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "abril",
+    "anno": 2007,
+    "Temperatura": 24.17450046,
+    "nivel": 3.92,
+    "num": 88
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "mayo",
+    "anno": 2007,
+    "Temperatura": 24.86349056,
+    "nivel": 3.96,
+    "num": 89
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "junio",
+    "anno": 2007,
+    "Temperatura": 24.35529785,
+    "nivel": 4,
+    "num": 90
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "julio",
+    "anno": 2007,
+    "Temperatura": 23.89457371,
+    "nivel": 4.04,
+    "num": 91
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "agosto",
+    "anno": 2007,
+    "Temperatura": 24.07242227,
+    "nivel": 4.08,
+    "num": 92
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "septiembre",
+    "anno": 2007,
+    "Temperatura": 25.0315266,
+    "nivel": 4.12,
+    "num": 93
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "octubre",
+    "anno": 2007,
+    "Temperatura": 23.76928873,
+    "nivel": 4.16,
+    "num": 94
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "noviembre",
+    "anno": 2007,
+    "Temperatura": 23.01397456,
+    "nivel": 4.2,
+    "num": 95
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "diciembre",
+    "anno": 2007,
+    "Temperatura": 23.71622766,
+    "nivel": 4.24,
+    "num": 96
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "enero",
+    "anno": 2008,
+    "Temperatura": 23.36499724,
+    "nivel": 4.28,
+    "num": 97
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "febrero",
+    "anno": 2008,
+    "Temperatura": 24.47781044,
+    "nivel": 4.32,
+    "num": 98
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "marzo",
+    "anno": 2008,
+    "Temperatura": 23.25160355,
+    "nivel": 4.36,
+    "num": 99
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "abril",
+    "anno": 2008,
+    "Temperatura": 24.25392686,
+    "nivel": 4.4,
+    "num": 100
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "mayo",
+    "anno": 2008,
+    "Temperatura": 23.11486316,
+    "nivel": 4.44,
+    "num": 101
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "junio",
+    "anno": 2008,
+    "Temperatura": 24.27735527,
+    "nivel": 4.48,
+    "num": 102
+  },
+  {
+    "Fenomeno": "NINA",
+    "mes": "julio",
+    "anno": 2008,
+    "Temperatura": 24.5238478,
+    "nivel": 4.52,
+    "num": 103
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "agosto",
+    "anno": 2008,
+    "Temperatura": 24.96420961,
+    "nivel": 4.56,
+    "num": 104
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "septiembre",
+    "anno": 2008,
+    "Temperatura": 23.46396442,
+    "nivel": 4.6,
+    "num": 105
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "octubre",
+    "anno": 2008,
+    "Temperatura": 25.12279688,
+    "nivel": 4.64,
+    "num": 106
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "noviembre",
+    "anno": 2008,
+    "Temperatura": 24.36202022,
+    "nivel": 4.68,
+    "num": 107
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "diciembre",
+    "anno": 2008,
+    "Temperatura": 24.44041949,
+    "nivel": 4.72,
+    "num": 108
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "enero",
+    "anno": 2009,
+    "Temperatura": 24.74304025,
+    "nivel": 4.76,
+    "num": 109
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "febrero",
+    "anno": 2009,
+    "Temperatura": 23.26665706,
+    "nivel": 4.8,
+    "num": 110
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "marzo",
+    "anno": 2009,
+    "Temperatura": 23.56760744,
+    "nivel": 4.84,
+    "num": 111
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "abril",
+    "anno": 2009,
+    "Temperatura": 24.60178509,
+    "nivel": 4.88,
+    "num": 112
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "mayo",
+    "anno": 2009,
+    "Temperatura": 24.17645139,
+    "nivel": 4.92,
+    "num": 113
+  },
+  {
+    "Fenomeno": "NOENSO",
+    "mes": "junio",
+    "anno": 2009,
+    "Temperatura": 24.9480252,
+    "nivel": 4.96,
+    "num": 114
+  }
+]
