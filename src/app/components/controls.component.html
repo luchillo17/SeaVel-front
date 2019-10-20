@@ -10,12 +10,12 @@
 
 <mat-card class="indicators">
   <h4 class="indicator-title">Temperatura Global</h4>
-  <div>{{ temp }} °C</div>
+  <div>{{ temp | number: '1.0-2' }} °C</div>
 </mat-card>
 
 <mat-card class="indicators">
   <h4 class="indicator-title">Aumento del Nivel del mar Global</h4>
-  <div>{{ level }} cm</div>
+  <div>{{ level | number: '1.0-2' }} cm</div>
 </mat-card>
 
 <mat-card class="indicators">
