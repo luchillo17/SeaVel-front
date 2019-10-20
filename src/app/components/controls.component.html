@@ -22,7 +22,7 @@
   <h4 class="indicator-input-title">Selecione una ciudad</h4>
   <mat-form-field>
     <mat-label>Ciudades</mat-label>
-    <mat-select>
+    <mat-select [value]="city" (valueChange)="onCityChange($event)">
       <mat-option *ngFor="let city of cities" [value]="city.value">
         {{ city.viewValue }}
       </mat-option>

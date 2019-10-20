@@ -1,4 +1,4 @@
 <app-bar></app-bar>
-<app-map></app-map>
-<app-controls></app-controls>
+<app-map [mapSrc]="mapSrc"></app-map>
+<app-controls [city]="city" (cityChange)="getMap($event)"></app-controls>
 <app-time-line></app-time-line>
